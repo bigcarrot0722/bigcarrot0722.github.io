@@ -1,6 +1,6 @@
 ---
 layout: post
-title: bigcarrot.
+title: Notice.
 ---
 
 I'm developer bigcarrot.
