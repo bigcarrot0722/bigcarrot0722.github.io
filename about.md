@@ -14,4 +14,4 @@ Availble language: c, c++, java, python, html etc..
 
 ### Contact me(sub e-mail)
 
-[email@domain.com](mailto:ekdrmsnl@naver.com)
+[ekdrmsnl@naver.com](mailto:ekdrmsnl@naver.com)
