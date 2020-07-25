@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: bigcarrot.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I'm developer bigcarrot.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This is my private page, i will post personal thoughts, computer knowledge.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+If you have any questions about my post, please send me an email or a dm on instagram.
+
+![_config.yml]({{ site.baseurl }}/images/spongebob.png)
+
