@@ -8,7 +8,7 @@ name: bigcarrot
 # Short bio or description (displayed in the header)
 description: 안녕하세요, 개발자 bigcarrot의 개인사이트입니다.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/hacker.jpg
+avatar: /images/hacker.jpg
 
 #
 # Flags below are optional
