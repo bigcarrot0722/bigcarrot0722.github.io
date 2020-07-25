@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Major: information security
+Availble language: c, c++, java, python, html etc..
 
-### Contact me
+### Contact me(sub e-mail)
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:ekdrmsnl@naver.com)
