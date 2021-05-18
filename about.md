@@ -10,14 +10,14 @@ I'm developer bigcarrot.
 
 This is my private page, i will post personal thoughts, computer knowledge.
 
-If you have any questions about my post, please send me an email or  dm on instagram.
+If you have any questions about my post, please send me an email or instagram DM.
 
 
 ### Some Information about me
 
 Major: information security
 
-Availble language: c, c++, java, python, html etc..
+Availble language: c, c++, java, python, html, Kotlin etc..
 
 
 ### Contact me(sub e-mail)
